@@ -1,0 +1,6 @@
+{
+  "name": "Manikineko — Netherlands Applied R&D Interface",
+  "description": "Executive research and development operating interface for Manikineko (Eindhoven & Delft, Netherlands), featuring precision nanophotonics calibration, program portfolios, intellectual property ledgers, and cleanroom facility telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
